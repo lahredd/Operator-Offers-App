@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7efe2"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="@font/nexabold"
+                android:gravity="center"
+                android:text="THANKS FOR YOUR PARTICIPATION"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                android:textColor="#FD006C"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="352dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/nexabold"
+                android:gravity="center"
+                android:text="Please Fill The Form So We Can Contact You After The Draw"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                android:textColor="#0C0303"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText2"
+                style="@style/Theme.AppCompat.Light.DarkActionBar"
+                android:layout_width="334dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:ems="10"
+                android:fontFamily="@font/nexabold"
+                android:hint="Your Full Name"
+                android:inputType="textPersonName"
+                android:textColor="#030102"
+                android:textColorHint="#8B8989"
+                android:textSize="24dp"
+                app:backgroundTint="#FFE91E63" />
+
+            <EditText
+                android:id="@+id/editText6"
+                style="@style/Theme.AppCompat.Light.DarkActionBar"
+                android:layout_width="334dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:ems="10"
+                android:fontFamily="@font/nexabold"
+                android:hint="Your Email"
+                android:inputType="textEmailAddress"
+                android:textColor="#050505"
+                android:textColorHint="#8D8A8A"
+                android:textSize="24dp"
+                app:backgroundTint="#FFE91E63" />
+
+            <EditText
+                android:id="@+id/editText7"
+                style="@style/Theme.AppCompat.Light.DarkActionBar"
+                android:layout_width="334dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:ems="10"
+                android:fontFamily="@font/nexabold"
+                android:hint="Your Phone Number"
+                android:inputType="phone"
+                android:textColor="#F7050505"
+                android:textColorHint="#8D8A8A"
+                android:textSize="24dp"
+                app:backgroundTint="#FFE91E63" />
+
+            <EditText
+                android:id="@+id/editText"
+                style="@style/Theme.AppCompat.Light.DarkActionBar"
+                android:layout_width="334dp"
+                android:layout_height="67dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="8dp"
+                android:ems="10"
+                android:fontFamily="@font/nexabold"
+                android:hint="What Gift You Want ?"
+                android:inputType="textPersonName"
+                android:textColor="#030102"
+                android:textColorHint="#8B8989"
+                android:textSize="24dp"
+                app:backgroundTint="#FFE91E63" />
+
+            <ImageButton
+                android:id="@+id/imageButton11"
+                android:layout_width="340dp"
+                android:layout_height="65dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/button16" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

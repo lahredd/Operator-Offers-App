@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7efe2"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+
+
+    <ImageButton
+        android:id="@+id/imageView53"
+        android:layout_width="49dp"
+        android:layout_height="49dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/backbutton"
+        android:clickable="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView67"
+                android:layout_width="333dp"
+                android:layout_height="178dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="false"
+                app:srcCompat="@drawable/applaun" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="334dp"
+                android:layout_height="184dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/nexabold"
+                android:gravity="center"
+                android:text="Thanks for Completing the Form   \n\n Please Click Go To PACKAGES To Continue to Zong Packages "
+                android:textColor="#F61072"
+                android:textSize="26sp" />
+
+            <ImageButton
+                android:id="@+id/imageButton11"
+                android:layout_width="219dp"
+                android:layout_height="65dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/finish" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

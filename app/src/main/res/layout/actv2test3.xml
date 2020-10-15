@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7efe2"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+
+
+    <ImageButton
+        android:id="@+id/imageView53"
+        android:layout_width="49dp"
+        android:layout_height="49dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/backbutton"
+        android:clickable="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView67"
+                android:layout_width="333dp"
+                android:layout_height="178dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="false"
+                app:srcCompat="@drawable/applaun" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/nexa"
+                android:gravity="center"
+                android:text="Enter Required Fields And \n Click Next"
+                android:textColor="#F61072"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText2"
+                style="@style/Theme.AppCompat.Light.DarkActionBar"
+                android:layout_width="336dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/rounded_edittext"
+                android:ems="10"
+                android:fontFamily="@font/nexabold"
+                android:hint="Your Email"
+                android:inputType="textPersonName"
+                android:paddingLeft="10dp"
+                android:textColor="#030102"
+                android:textColorHint="#8B8989"
+                android:textSize="24dp" />
+
+            <ImageButton
+                android:id="@+id/imageButton11"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/next" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

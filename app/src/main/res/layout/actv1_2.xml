@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7efe2"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+
+
+    <ImageButton
+        android:id="@+id/imageView53"
+        android:layout_width="49dp"
+        android:layout_height="49dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/backbutton"
+        android:clickable="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:background="#8DC640"
+                android:fontFamily="@font/nexabold"
+                android:gravity="center"
+                android:text="Daily Pakistan Offer"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="138dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:fontFamily="@font/nexa"
+                    android:gravity="left"
+                    android:text="Duration :"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="172dp"
+                    android:layout_height="39dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/nexabold"
+                    android:gravity="left"
+                    android:text="Daily"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView10"
+                    android:layout_width="141dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/nexa"
+                    android:gravity="left"
+                    android:text="Volume :  "
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="240dp"
+                    android:layout_height="148dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/nexabold"
+                    android:gravity="center_vertical"
+                    android:text="100 Min \n 0 OffNet Min \n 0 SMS \n 10 MB Internet"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="91dp"
+                android:layout_gravity="center"
+                android:gravity="top|left"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="148dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/nexa"
+                    android:gravity="top|left"
+                    android:text="Activation :  "
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="278dp"
+                    android:layout_height="84dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/nexabold"
+                    android:gravity="center_vertical"
+                    android:text="*8880#"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="176dp"
+                    android:layout_height="44dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/nexa"
+                    android:gravity="left"
+                    android:text="Deactivation :"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="69dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/nexabold"
+                    android:gravity="center_vertical"
+                    android:text="*#"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView13"
+                    android:layout_width="145dp"
+                    android:layout_height="42dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/nexa"
+                    android:gravity="left"
+                    android:text="Price :"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView21"
+                    android:layout_width="116dp"
+                    android:layout_height="42dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/nexabold"
+                    android:gravity="left"
+                    android:text=" Rs.  "
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="230dp"
+                    android:layout_height="42dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/nexabold"
+                    android:gravity="left"
+                    android:text="18"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <com.like.LikeButton
+                    android:id="@+id/heart_button"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="13dp"
+                    android:layout_marginRight="13dp"
+                    app:icon_size="23dp"
+                    app:icon_type="star"
+                    app:is_enabled="true"
+                    app:liked="false" />
+
+                <com.like.LikeButton
+                    android:id="@+id/star_button"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="13dp"
+                    android:layout_marginRight="13dp"
+                    app:icon_size="23dp"
+                    app:icon_type="heart"
+                    app:is_enabled="true"
+                    app:liked="false" />
+
+                <com.like.LikeButton
+                    android:id="@+id/like_button"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="13dp"
+                    android:layout_marginRight="13dp"
+                    app:icon_size="23dp"
+                    app:icon_type="thumb"
+                    app:is_enabled="true"
+                    app:liked="false" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/imageButton12"
+                    android:layout_width="177dp"
+                    android:layout_height="69dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/button9" />
+
+                <ImageButton
+                    android:id="@+id/imageButton6"
+                    android:layout_width="158dp"
+                    android:layout_height="63dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/share" />
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="218dp"
+                android:layout_height="65dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button99" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myzong.zongprime">
+
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".actv1.Actv1"/>
+        <activity android:name=".actv2.Actv2"/>
+        <activity android:name=".actv2.Actvtest2"/>
+        <activity android:name=".actv2.Actvtest22"/>
+        <activity android:name=".actv2.Actvtest3"/>
+        <activity android:name=".actv2.Actvtest4"/>
+        <activity android:name=".actv2.Actvtest5"/>
+        <activity android:name=".actv2.Actvtest6"/>
+        <activity android:name=".actv2.Actvtest7"/>
+        <activity android:name=".actv2.Actvtest8"/>
+        <activity android:name=".actv2.Actvtest9"/>
+        <activity android:name=".actv2.Actvtest10"/>
+        <activity android:name=".actv2.Actvtest11"/>
+        <activity android:name=".actv2.Actvtest12"/>
+
+
+
+        <activity android:name=".actv3.Actv3"/>
+        <activity android:name=".actv3.Actv34"/>
+        <activity android:name=".actv1.AnimeActivity"/>
+        <activity android:name=".actv1.Actv11"/>
+        <activity android:name=".actv1.Actv112"/>
+        <activity android:name=".actv1.Actv113"/>
+        <activity android:name=".actv1.Actv114"/>
+        <activity android:name=".actv1.Actv115"/>
+
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9762360130572732~6889552928"/>
+
+
+
+    </application>
+
+</manifest>

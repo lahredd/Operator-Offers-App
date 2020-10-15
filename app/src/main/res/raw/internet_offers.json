@@ -1,0 +1,462 @@
+[
+{
+  "title": "Daily Zong Classified Pack",
+  "volume": "50 MB (Daraz Lamudi Kaymu PakWheels & Carmudi)",
+  "duration": "1 Day",
+  "detail": "50 MB",
+  "activation": "*6464#",
+  "deactivation": "",
+  "price": "5",
+  "photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Facebook",
+"volume": "50 MB  Dial *6464# and follow Instructions",
+"duration": "1 Day",
+"detail": "50 MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "5",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Full Gup Package",
+"volume": "75 On-Net Min  \n 100  SMS  \n 30 MB(WhatsApp Only)",
+"duration": "30 MB",
+"detail": "1 Day",
+"activation": "*118*1#",
+"deactivation": "",
+"price": "5",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Social Pack ",
+"volume": "100  MB (Whatsapp Facebook Twitter) Dial *6464# and follow Instructions",
+"duration": "1 Day",
+"detail": "100  MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "10",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Perfect Package",
+"volume": "10000 On-Net Min  \n 500 SMS(10pm- 7pm)  \n 40 MB(10pm- 7pm)",
+"duration": "1 Day",
+"detail": "40 MB",
+"activation": "*118*2#",
+"deactivation": "",
+"price": "12",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Shandaar Daily Package",
+"volume": "Unlimited On-Net Min  \n 800 SMS  \n 50 MB",
+"duration": "1 Day",
+"detail": "50 MB",
+"activation": "*999#",
+"deactivation": "",
+"price": "12",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Hello 1 DIN",
+"volume": "120 On-Net Min  \n 120 SMS  \n 50 MB",
+"duration": "1 Day",
+"detail": "50 MB",
+"activation": "*2200*1#",
+"deactivation": "",
+"price": "12",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Whatsapp Only",
+"volume": "150  MB",
+"duration": "1 Day",
+"detail": "150  MB",
+"activation": "*4#",
+"deactivation": "",
+"price": "15",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong 4G",
+"volume": "100  MB  Dial *6464# and follow Instructions",
+"duration": "1 Day",
+"detail": "100  MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "15",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Good NIght Offer",
+"volume": "2.5  MB(1am-9am)",
+"duration": "1 Day",
+"detail": "2.5  MB",
+"activation": "Send gno 6464",
+"deactivation": "",
+"price": "16",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Daytime Offer",
+"volume": "1.2 GB(4am-7pm)",
+"duration": "1 Day",
+"detail": "1.2 GB",
+"activation": "*47#",
+"deactivation": "",
+"price": "16",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Basic",
+"volume": "100  MB  Dial *6464# and follow Instructions",
+"duration": "1 Day",
+"detail": "100  MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "17",
+"photo": "item_drawable_2"
+},
+{
+"title": "Daily Zong Data Max",
+"volume": "500  MB",
+"duration": "1 Day",
+"detail": "500  MB",
+"activation": "*5#",
+"deactivation": "",
+"price": "35",
+"photo": "item_drawable_2"
+},
+{
+"title": "Weekly Zong Shandaar Package",
+"volume": "500 On-Net Min  \n 40 Off-Net Min  \n 500 SMS  \n 500 MB",
+"duration": "7 Day",
+"detail": "500 MB",
+"activation": "*7#",
+"deactivation": "",
+"price": "120",
+"photo": "item_drawable_3"
+},
+{
+"title": "Weekly Zong Youtube",
+"volume": "8 GB",
+"duration": "7 Day",
+"detail": "8 GB",
+"activation": "*570#",
+"deactivation": "",
+"price": "100",
+"photo": "item_drawable_3"
+},
+{
+"title": "Weekly Zong Supe Max",
+"volume": "25GB[10GB  \n 5GB(4am-4pm  \n 10GB Youtube]",
+"duration": "7 Day",
+"detail": "25GB",
+"activation": "*220#",
+"deactivation": "",
+"price": "201",
+"photo": "item_drawable_3"
+},
+{
+"title": "Weekly TikTok Offer",
+"volume": "2 GB",
+"duration": "7 Day",
+"detail": "2 GB",
+"activation": "*606#",
+"deactivation": "",
+"price": "35",
+"photo": "item_drawable_3"
+},
+{
+"title": "Weekly Zong Supe Weekly Plus",
+"volume": "7 GB",
+"duration": "7 Day",
+"detail": "7 GB",
+"activation": "*20#",
+"deactivation": "",
+"price": "171",
+"photo": "item_drawable_3"
+},
+{
+"title": "Weekly Zong Super Internet",
+"volume": "2.5 GB  Dial *6464# and follow Instructions",
+"duration": "7 Day",
+"detail": "2.5 GB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "120",
+"photo": "item_drawable_3"
+},
+{
+"title": "Weekly Zong Super Max Internet",
+"volume": "10 GB(  \n 5GB available between 4AM to 4PM   \n 10GB Data for YouTube)",
+"duration": "7 Day",
+"detail": "10 GB",
+"activation": "*220#",
+"deactivation": "",
+"price": "190",
+"photo": "item_drawable_3"
+},
+{
+"title": "15 Days Zong Co MBo Pack",
+"volume": "50 On-Net Min  \n 3000 MB",
+"duration": "15 Day",
+"detail": "3000 MB",
+"activation": "*15#",
+"deactivation": "",
+"price": "200",
+"photo": "item_drawable_3"
+},
+{
+"title": "Monthly Zong IMO Offer",
+"volume": "2 GB",
+"duration": "30 Day",
+"detail": "2 GB",
+"activation": "*466#",
+"deactivation": "",
+"price": "30",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Whatsapp Offer",
+"volume": "Unlimited",
+"duration": "30 Day",
+"detail": "150  MB",
+"activation": "*247#",
+"deactivation": "",
+"price": "30",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Mini Internet",
+"volume": "150  MB  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "150  MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "50",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong SMS Whatsapp",
+"volume": "500  SMS   \n  900 MB WhatsApp",
+"duration": "30 Day",
+"detail": "900 MB",
+"activation": "*705#",
+"deactivation": "",
+"price": "50",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Basic Internet",
+"volume": "500  MB  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "500  MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "150",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Internet",
+"volume": "3 GB  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "3 GB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "300",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Shandaar Package",
+"volume": "1000 On-Net Min  \n 100 Off-Net Min  \n 1000 SMS  \n 1000 MB",
+"duration": "1000 MB",
+"detail": "30 Day",
+"activation": "*1000#",
+"deactivation": "",
+"price": "300",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Premium",
+"volume": "3 GB  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "3 GB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "300",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Premium 30 GB",
+"volume": "15 GB  \n (15GB Youtube and TikTok)  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "30 GB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "300",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Super Card",
+"volume": "2500 On-Net Min  \n 150 Off-Net Min  \n 2500 SMS  \n 2500 MB  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "2500 MB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "650",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Power Pack",
+"volume": "1000 On-Net Min  \n 50 Off-Net Min  \n 1000 SMS  \n 2500 MB",
+"duration": "30 Day",
+"detail": "2500 MB",
+"activation": "*1313#",
+"deactivation": "",
+"price": "500",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong 12GB",
+"volume": "12 GB(  \n  free nights (1GB FUP) 1am to 9am/daily)  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "12 GB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "750",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM Offer",
+"volume": "4 GB  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "4 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "775",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM Offer",
+"volume": "12 GB  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "12 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "1240",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Power Pack",
+"volume": "2000 On-Net Min  \n 150 Off-Net Min  \n 1500 SMS  \n 5000 MB",
+"duration": "30 Day",
+"detail": "5000 MB",
+"activation": "*1313#",
+"deactivation": "",
+"price": "1000",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Zong Supreme Offer",
+"volume": "5000 On-Net Min  \n 300 Off-Net Min  \n 5000 SMS  \n 5.12GB  Dial *6464# and follow Instructions",
+"duration": "30 Day",
+"detail": "5.12GB",
+"activation": "*6464#",
+"deactivation": "",
+"price": "1000",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM  8 GB",
+"volume": "4GB  \n (4GB 4am–4pm)  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "8 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "750",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM  24 GB",
+"volume": "6GB  \n (6GB 4am–4pm)  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "24 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "1200",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM 30 GB",
+"volume": "30 GB  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "30 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "1800",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM  60 GB",
+"volume": "60 GB  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "60 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "2000",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM  175 GB",
+"volume": "165GB  \n (100 GB 1am–9am)  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "175 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "3250",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM Good Night ",
+"volume": "30 GB  \n (1GB/Day 1am–9am)  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "30 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "230",
+"photo": "item_drawable_4"
+},
+{
+"title": "Monthly Internet SIM Day Time ",
+"volume": "30 GB  \n (1GB/Day 9am–4pm)  Dial *6666# and Follow Instructions",
+"duration": "30 Day",
+"detail": "30 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "570",
+"photo": "item_drawable_4"
+},
+{
+"title": "3 Months Zong Internet SIM Offer 9 GB",
+"volume": "3 GB/Month  Dial *6666# and Follow Instructions",
+"duration": "3 Months",
+"detail": "9 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "1150",
+"photo": "item_drawable_4"
+},
+{
+"title": "3 Months Zong Internet SIM Offer 36 GB",
+"volume": "12 GB/Month  Dial *6666# and Follow Instructions",
+"duration": "3 Months",
+"detail": "36 GB",
+"activation": "*6666#",
+"deactivation": "",
+"price": "2790",
+"photo": "item_drawable_4"
+}
+]

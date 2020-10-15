@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Hourly Zong Student Bundle",
+    "volume": "120 On-Net Min \n (Valid between 10m-12am)",
+    "duration": "2 Hours",
+    "detail": "120 On-Net Min",
+    "activation": "*3000#",
+    "deactivation": "",
+    "price": "3 ",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Hourly Zong Super Student ",
+    "volume": "Unlimited On-Net Min(Next Two Hours) \n 30 MB(Valid for Next Two Hours)",
+    "duration": "2 Hours",
+    "detail": "Unlimited",
+    "activation": "*5555#",
+    "deactivation": "",
+    "price": "5",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Unlimited Offer",
+    "volume": "Unlimited On-Net Min\n 1  MB Auto Renewable",
+    "duration": "1 Day",
+    "detail": "Unlimited On-Net Min",
+    "activation": "*522#",
+    "deactivation": "Send Unsub to 522",
+    "price": "13",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Full Gup Package",
+    "volume": "75 On-Net Min \n 100  SMS \n 30 MB(WhatsApp Only)",
+    "duration": "1 Day",
+    "detail": "75 On-Net Min",
+    "activation": "*118*1#",
+    "deactivation": "",
+    "price": "5",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Sixer Plus Package",
+    "volume": "10000 On-Net Min(Valid For 6AM-6PM)\n 500 SMS(Valid For 6AM-6PM)",
+    "duration": "1 Day",
+    "detail": "10000 On-Net Min",
+    "activation": "*666#",
+    "deactivation": "",
+    "price": "8",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Non Stop Package",
+    "volume": "10000 On-Net Min(Valid For: 10pm - 7pm)",
+    "duration": "1 Day",
+    "detail": "10000 On-Net Min",
+    "activation": "*777#",
+    "deactivation": "",
+    "price": "10",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Perfect Package",
+    "volume": "10000 On-Net Min \n 500 SMS(10pm- 7pm) \n 40 MB(10pm- 7pm)",
+    "duration": "1 Day",
+    "detail": "10000 On-Net Min",
+    "activation": "*118*2#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Shandaar Daily",
+    "volume": "Unlimited On-Net Min \n 800 SMS \n 50 MB",
+    "duration": "1 Day",
+    "detail": "Unlimited",
+    "activation": "*999#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Hello 1 DIN",
+    "volume": "120 On-Net Min \n 120 SMS \n 50 MB",
+    "duration": "1 Day",
+    "detail": "120 On-Net Min",
+    "activation": "*2200*1#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Flutter Package",
+    "volume": "120 On-Net Min \n 120  SMS \n 50 MB",
+    "duration": "1 Day",
+    "detail": "120 On-Net Min",
+    "activation": "*369#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Weekly Zong Shandaar Package",
+    "volume": "500 On-Net Min \n 40 Off-Net Min \n 500 SMS \n 500 MB",
+    "duration": "7 Day",
+    "detail": "500 On-Net Min",
+    "activation": "*7#",
+    "deactivation": "",
+    "price": "120",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Zong All in 1 Bundle",
+    "volume": "1000 On-Net Min \n 40 Off-Net Min \n 1000 SMS \n 1GB \n 2GB Whatsapp",
+    "duration": "7 Day",
+    "detail": "1000 On-Net Min",
+    "activation": "*6464#",
+    "deactivation": "*6464# and reply with 4 and then 3",
+    "price": "200",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Zong Haftawar Load ",
+    "volume": "2500 On-Net Min \n 80 Off-Net Min \n 2500 SMS \n 2500 MB",
+    "duration": "7 Day",
+    "detail": "2500 On-Net Min",
+    "activation": "*70#",
+    "deactivation": "*6464# and reply with 4 and then 3",
+    "price": "250",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Zong Unlimited Offer",
+    "volume": "Unlimited On-Net Min \n 150  SMS Auto Renewable",
+    "duration": "7 Day",
+    "detail": "Unlimited",
+    "activation": "Send PK7 to 522",
+    "deactivation": "Send Unsub to 522",
+    "price": "63",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "15 day Zong Combo Pack",
+    "volume": "50 Off-Net Min \n 3GB",
+    "duration": "15 Day",
+    "detail": "50 Off-Net Min",
+    "activation": "*15#",
+    "deactivation": "",
+    "price": "200",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Monthly Unlimited Offer",
+    "volume": "Unlimited On-Net Min \n 500  SMS",
+    "duration": "30 Day",
+    "detail": "Unlimited On-Net Min",
+    "activation": "Send PK30 to 522",
+    "deactivation": "Send Unsub to 522",
+    "price": "255",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Shandaar Package",
+    "volume": "1000 On-Net Min \n 100 Off-Net Min \n 1000 SMS \n 1000 MB",
+    "duration": "30 Day",
+    "detail": "1000 On-Net Min",
+    "activation": "*1000#",
+    "deactivation": "Send Unsub Mahana to 7091",
+    "price": "300",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Power Pack",
+    "volume": "1000 On-Net Min \n 50 Off-Net Min \n 1000 SMS \n 2500 MB",
+    "duration": "30 Day",
+    "detail": "1000 On-Net Min",
+    "activation": "*1313#",
+    "deactivation": "",
+    "price": "500",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Super Card",
+    "volume": "2500 On-Net Min \n 150 Off-Net Min \n 2500 SMS \n 2500 MB",
+    "duration": "30 Day",
+    "detail": "2500 On-Net Min",
+    "activation": "*50#",
+    "deactivation": "Dial *6464# and Follow Instructions",
+    "price": "650",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Supreme Offer",
+    "volume": "5000 On-Net Min \n 300 Off-Net Min \n 5000 SMS \n 5.12GB \n 2GB Youtube and WhatsApp",
+    "duration": "30 Day",
+    "detail": "5000 On-Net Min",
+    "activation": "*3030#",
+    "deactivation": "",
+    "price": "1000",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Supreme Plus ",
+    "volume": "10000 On-Net Min \n 600 Off-Net Min \n 10000 SMS \n 10GB \n 4GB WhatsApp",
+    "duration": "30 Day",
+    "detail": "10000 On-Net Min",
+    "activation": "*1500#",
+    "deactivation": "",
+    "price": "1732",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "3 Months Zong Power Pack",
+    "volume": "8000 On-Net Min \n 200 Off-Net Min \n 3000 SMS \n 8000 MB",
+    "duration": "3 Months",
+    "detail": "8000 On-Net Min",
+    "activation": "*1313#",
+    "deactivation": "",
+    "price": "1500",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Postpaid Z300",
+    "volume": "500 On-Net Min \n 100 Off-Net Min \n 500 SMS \n 1000 MB",
+    "duration": "30 Day",
+    "detail": "500 On-Net Min",
+    "activation": "Visit Nearest Zong Retailer Shop",
+    "deactivation": "",
+    "price": "300",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Postpaid Z500",
+    "volume": "1500 On-Net Min \n 250 Off-Net Min \n 1000 SMS \n 2000 MB",
+    "duration": "30 Day",
+    "detail": "1500 On-Net Min",
+    "activation": "Visit Nearest Zong Retailer Shop",
+    "deactivation": "",
+    "price": "360",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Postpaid Z900",
+    "volume": "Unlimited On-Net Min \n 500 Off-Net Min \n 2000 SMS \n 4000 MB",
+    "duration": "30 Day",
+    "detail": "Unlimited",
+    "activation": "Visit Nearest Zong Retailer Shop",
+    "deactivation": "",
+    "price": "657",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Postpaid Z1500",
+    "volume": "Unlimited On-Net Min \n 800 Off-Net Min \n 4000 SMS \n 8000 MB",
+    "duration": "30 Day",
+    "detail": "Unlimited",
+    "activation": "Visit Nearest Zong Retailer Shop",
+    "deactivation": "",
+    "price": "1095",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Postpaid Z3000",
+    "volume": "Unlimited On-Net Min \n 1200 Off-Net Min \n 5000 SMS \n 25.6GB",
+    "duration": "30 Day",
+    "detail": "Unlimited",
+    "activation": "Visit Nearest Zong Retailer Shop",
+    "deactivation": "",
+    "price": "2190",
+    "photo": "item_drawable_4"
+  }
+]

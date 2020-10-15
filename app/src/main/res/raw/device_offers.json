@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Zong Monthly Good Night Offer MBB 30 GB (Device Only Package)",
+    "volume": "1 GB/Day(1am-9am)  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "30 Day",
+    "detail": "",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "230",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Zong Monthly MBB 30 GB (Device Only Package)",
+    "volume": "30 GB  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "30 Day",
+    "detail": "30 GB",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "1800",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Zong Monthly MBB 60 GB (Device Only Package)",
+    "volume": "60 GB  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "30 Day",
+    "detail": "60 GB",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "2000",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Zong Monthly MBB 150 GB (Device Only Package)",
+    "volume": "75 GB+(75 GB 4am-4pm)  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "30 Day",
+    "detail": "75 GB+",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "2500",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Zong Monthly MBB 200 GB (Device Only Package)",
+    "volume": "100 GB+(100 GB 4am-4pm)  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "30 Day",
+    "detail": "100 GB+",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "3250",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "3 Months Zong MBB 180 GB (Device Only Package))",
+    "volume": "60 GB/Month  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "3 Months",
+    "detail": "60 GB/Month",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "5500",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "6 Months Zong MBB 600 GB (Device Only Package))",
+    "volume": "100+(25GB 4am-4pm)/Month  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "6 Months",
+    "detail": "100GB+",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "12000",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "12 Months Zong MBB 1200 GB (Device Only Package))",
+    "volume": "100+(25GB 4am-4pm)/Month  Dial *6767# and Follow Instructions or visit Nearest Zong Retailer Shop",
+    "duration": "12 Months",
+    "detail": "100GB+",
+    "activation": "*6767#",
+    "deactivation": "",
+    "price": "22000",
+    "photo": "item_drawable_4"
+  }
+]

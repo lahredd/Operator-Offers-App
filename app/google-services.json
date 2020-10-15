@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115431025170",
+    "firebase_url": "https://zng-project.firebaseio.com",
+    "project_id": "zng-project",
+    "storage_bucket": "zng-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115431025170:android:90649b265af1d0cd2206cb",
+        "android_client_info": {
+          "package_name": "com.myzong.zongprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115431025170-ob4sua2ld9ug3gris8gd90fkse7llbor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnomruPPyILpHPYqqSEXvRh90xkFkRji4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115431025170-ob4sua2ld9ug3gris8gd90fkse7llbor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

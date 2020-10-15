@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Daily Zong Zulu SMS Bundle",
+    "volume": "500 SMS",
+    "duration": "1 Day",
+    "detail": "500 SMS",
+    "activation": "*704#",
+    "deactivation": "",
+    "price": "3",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Daily SMS WhatsApp ",
+    "volume": "500 Free SMS \n 30MB",
+    "duration": "1 Day",
+    "detail": "500 Free SMS",
+    "activation": "*700#",
+    "deactivation": "",
+    "price": "4",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Full Gup Package",
+    "volume": "75 On-Net Minutes \n 100 SMS \n 30MB(WhatsApp Only)",
+    "duration": "1 Day",
+    "detail": "100 SMS",
+    "activation": "*118*1#",
+    "deactivation": "",
+    "price": "5",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Perfect Package",
+    "volume": "10000 On-Net Minutes \n 500SMS(10pm- 7pm) \n 40MB(10pm- 7pm)",
+    "duration": "1 Day",
+    "detail": "500SMS",
+    "activation": "*118*2#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Sixer Plus Package",
+    "volume": "10000 On-Net Minutes(Valid For 6AM-6PM) \n 500SMS(Valid For 6AM-6PM)",
+    "duration": "1 Day",
+    "detail": "500SMS",
+    "activation": "*666#",
+    "deactivation": "",
+    "price": "8",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Shandaar ",
+    "volume": "Unlimited On-Net Minutes \n 800SMS \n 50MB",
+    "duration": "1 Day",
+    "detail": "800SMS",
+    "activation": "*999#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Hello 1 DIN",
+    "volume": "120 On-Net Minutes \n 120SMS \n 50MB",
+    "duration": "1 Day",
+    "detail": "120SMS",
+    "activation": "*2200*1#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Zong Flutter Package",
+    "volume": "120 On-Net Minutes \n 120 SMS \n 50MB",
+    "duration": "1 Day",
+    "detail": "120 SMS",
+    "activation": "*369#",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Weekly Zong SMS Bundle",
+    "volume": "1500 SMS \n 200MB WhatsApp",
+    "duration": "1 Day",
+    "detail": "1500 SMS",
+    "activation": "*702#",
+    "deactivation": "",
+    "price": "17",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Zong Shandaar Package",
+    "volume": "500 On-Net Minutes \n 40 Off-Net Minutes \n 500SMS \n 500MB",
+    "duration": "7 Day",
+    "detail": "500SMS",
+    "activation": "*7#",
+    "deactivation": "",
+    "price": "120",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Zong All in 1 Bundle",
+    "volume": "1000 On-Net Minutes \n 40 Off-Net Minutes \n 1000SMS \n 1GB \n 2GB Whatsapp  Dial *6464# and Follow Instructions",
+    "duration": "7 Day",
+    "detail": "1000SMS",
+    "activation": "*6464#",
+    "deactivation": "",
+    "price": "200",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Zong Haftawar Load Offer",
+    "volume": "2500 On-Net Minutes \n 80 Off-Net Minutes \n 2500SMS \n 2500MB",
+    "duration": "7 Day",
+    "detail": "2500SMS",
+    "activation": "*70#",
+    "deactivation": "",
+    "price": "250",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Monthly Zong SMS Whatsapp Bundle",
+    "volume": "500 SMS \n 900 MB WhatsApp",
+    "duration": "30 Day",
+    "detail": "500 SMS",
+    "activation": "*705#",
+    "deactivation": "",
+    "price": "50",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Shandaar Package",
+    "volume": "1000 On-Net Minutes \n 100 Off-Net Minutes \n 1000SMS \n 1000MB",
+    "duration": "30 Day",
+    "detail": "1000SMS",
+    "activation": "*1000#",
+    "deactivation": "",
+    "price": "300",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Power Pack",
+    "volume": "1000 On-Net Minutes \n 50 Off-Net Minutes \n 1000SMS \n 2500MB",
+    "duration": "30 Day",
+    "detail": "1000SMS",
+    "activation": "*1313#",
+    "deactivation": "",
+    "price": "500",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Super Card",
+    "volume": "2500 On-Net Minutes \n 150 Off-Net Minutes \n 2500SMS \n 2500MB  Dial *6464# and Follow Instructions",
+    "duration": "30 Day",
+    "detail": "2500SMS",
+    "activation": "*6464#",
+    "deactivation": "",
+    "price": "650",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Supreme Offer",
+    "volume": "5000 On-Net Minutes \n 300 Off-Net Minutes \n 5000SMS \n 5.12GB  Dial *6464# and Follow Instructions",
+    "duration": "30 Day",
+    "detail": "5000SMS",
+    "activation": "*6464#",
+    "deactivation": "",
+    "price": "1000",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong Supreme Plus",
+    "volume": "10000 On-Net Minutes \n 600 Off-Net Minutes \n 10000SMS \n 10GB \n 4GB WhatsApp",
+    "duration": "30 Day",
+    "detail": "10000SMS",
+    "activation": "*6464*4#",
+    "deactivation": "",
+    "price": "1732",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "3 Months Zong Power Pack",
+    "volume": "8000 On-Net Minutes \n 200 Off-Net Minutes \n 3000SMS \n 8000MB",
+    "duration": "3 Months",
+    "detail": "3000SMS",
+    "activation": "*1313#",
+    "deactivation": "",
+    "price": "1500",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong SMS Postpaid 300",
+    "volume": "300 SMS  Dial *567# and Follow Instructions",
+    "duration": "30 Day",
+    "detail": "300 SMS",
+    "activation": "*567#",
+    "deactivation": "Send UnSub to 700",
+    "price": "25",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong SMS Postpaid 700",
+    "volume": "700 SMS  Dial *567# and Follow Instructions",
+    "duration": "30 Day",
+    "detail": "700 SMS",
+    "activation": "*567#",
+    "deactivation": "Send UnSub to 700",
+    "price": "50",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Zong SMS Postpaid Unlimited",
+    "volume": "Unlimited SMS(500 SMS/Day)  Dial *567# and Follow Instructions",
+    "duration": "30 Day",
+    "detail": "Unlimited SMS",
+    "activation": "*567#",
+    "deactivation": "Send UnSub to 700",
+    "price": "90",
+    "photo": "item_drawable_4"
+  }
+]

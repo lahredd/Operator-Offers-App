@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Daily Mehran Sindh",
+    "volume": "Unlimited On-Net Min \n500 SMS \n25 MB",
+    "duration": "1 Day",
+    "detail": "",
+    "activation": "*2345#",
+    "deactivation": "",
+    "price": "18",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily Karachi Offer",
+    "volume": "Unlimited On-Net Min \n125  MB",
+    "duration": "1 Day",
+    "detail": "",
+    "activation": "*544#",
+    "deactivation": "",
+    "price": "13",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Daily AJK Offer",
+    "volume": "Unlimited On-Net Min",
+    "duration": "1 Day",
+    "detail": "",
+    "activation": "Send AJK to 522",
+    "deactivation": "",
+    "price": "12",
+    "photo": "item_drawable_2"
+  },
+  {
+    "title": "Weekly Apna Shehar Offer (Punjab)",
+    "volume": "150 Off-Net Min \n6 GB (Selected Cities in Punjab)",
+    "duration": "7 Day",
+    "detail": "",
+    "activation": "*2222#",
+    "deactivation": "",
+    "price": "220",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Apna Shehar Offer (Karachi)",
+    "volume": "5000 On-Net Min \n75 Off-Net Min \n5000  SMS \n5 GB",
+    "duration": "7 Day",
+    "detail": "",
+    "activation": "*54#",
+    "deactivation": "",
+    "price": "250",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Apna Shehar Offer (Sindh)",
+    "volume": "5000 On-Net Min \n75 Off-Net Min \n5000  SMS \n5 GB",
+    "duration": "7 Day",
+    "detail": "",
+    "activation": "*54#",
+    "deactivation": "",
+    "price": "250",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Mehran Sindh",
+    "volume": "Unlimited On-Net Min \n1000  SMS \n500  MB (Entire Cities in Sindh except Karachi)",
+    "duration": "7 Day",
+    "detail": "",
+    "activation": "*2345#",
+    "deactivation": "",
+    "price": "111",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly Karachi Offer",
+    "volume": "Unlimited On-Net Min \n1000  SMS",
+    "duration": "7 Day",
+    "detail": "",
+    "activation": "Send KHI6 to 522",
+    "deactivation": "",
+    "price": "76",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Weekly AJK Sindh",
+    "volume": "Unlimited On-Net Min",
+    "duration": "7 Day",
+    "detail": "",
+    "activation": "Send AJK7 to 522",
+    "deactivation": "",
+    "price": "60",
+    "photo": "item_drawable_3"
+  },
+  {
+    "title": "Monthly Mehran Sindh",
+    "volume": "Unlimited On-Net Min \n1000  SMS \n1500  MB (Entire Cities in Sindh except Karachi)",
+    "duration": "30 Day",
+    "detail": "",
+    "activation": "*2345#",
+    "deactivation": "",
+    "price": "371",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly Karachi Offer",
+    "volume": "Unlimited On-Net Min \n1000  SMS",
+    "duration": "30 Day",
+    "detail": "",
+    "activation": "Send KHI to 522",
+    "deactivation": "",
+    "price": "238",
+    "photo": "item_drawable_4"
+  },
+  {
+    "title": "Monthly AJK Sindh",
+    "volume": "Unlimited On-Net Min",
+    "duration": "30 Day",
+    "detail": "",
+    "activation": "Send AJK30 to 522",
+    "deactivation": "",
+    "price": "199",
+    "photo": "item_drawable_4"
+  }
+]
