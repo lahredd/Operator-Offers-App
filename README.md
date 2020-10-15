@@ -15,4 +15,4 @@ Used Libraries :
     implementation 'com.github.jd-alexander:LikeButton:0.2.3'
     
 
-Install app-release.apk 
+Install app-release.apk  to test.
